@@ -1,0 +1,7 @@
+# Ignore the secrets file
+.streamlit/secrets.toml
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
