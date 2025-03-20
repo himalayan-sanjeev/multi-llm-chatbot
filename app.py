@@ -2,7 +2,6 @@ import streamlit as st
 import google.generativeai as genai  # Gemini
 import openai  # ChatGPT
 import anthropic  # Claude
-import deepseek  # DeepSeek
 import requests
 
 
