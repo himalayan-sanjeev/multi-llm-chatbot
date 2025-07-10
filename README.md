@@ -1,4 +1,4 @@
-# 🤖  [Multi-LLM Chatbot](https://himalayan-chat-bot.streamlit.app/) (Gemini, ChatGPT, Claude, DeepSeek)
+# 🤖  Multi-LLM Chatbot (Gemini, ChatGPT, Claude, DeepSeek)
 
 An interactive **Streamlit** web app that allows users to:
 - **Chat with multiple AI models** (ChatGPT, Gemini, Claude, DeepSeek) 🔥
